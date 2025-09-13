@@ -2,4 +2,6 @@
 *.png
 *.jpg
 data
+drive
+predictions
 .ipynb_checkpoints
